@@ -1,5 +1,3 @@
-use std::ops::Mul;
-
 use itertools::Itertools;
 use regex::Regex;
 
