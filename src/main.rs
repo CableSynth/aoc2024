@@ -1,5 +1,5 @@
 mod solution;
-use solution::{day1, day2, day3, day4, day5, day6, day7, day8, day9};
+use solution::{day1, day10, day11, day2, day3, day4, day5, day6, day7, day8, day9};
 
 fn main() {
     println!("Solution day_1_1: {}", day1::part1());
@@ -20,4 +20,8 @@ fn main() {
     println!("Solution day_8_2: {}", day8::part2());
     println!("Solution day_9_1: {}", day9::part1());
     println!("Solution day_9_2: {}", day9::part2());
+    println!("Solution day_10_1: {}", day10::part1());
+    println!("Solution day_10_2: {}", day10::part2());
+    println!("Solution day_11_1: {}", day11::part1());
+    println!("Solution day_11_1: {}", day11::part2());
 }
